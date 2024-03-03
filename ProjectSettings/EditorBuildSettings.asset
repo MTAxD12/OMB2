@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Meniu.unity
+    guid: df50963b7b1791744bc86d1f6849cfc5
+  - enabled: 1
+    path: Assets/Nivele N/Level01 N.unity
+    guid: 990b23482a6025f41a513ee4e378e8e5
+  - enabled: 1
+    path: Assets/Nivele N/Level02 N.unity
+    guid: a4b8e1bf803b73d4aa26909b9a939b29
+  - enabled: 1
+    path: Assets/Nivele N/Level03 N.unity
+    guid: b86a991674cfe874a9ab1a5725bc60ba
+  - enabled: 1
+    path: Assets/Nivele N/Level04 N.unity
+    guid: 4ad8839140752484aa35075f67b6288a
+  - enabled: 1
+    path: Assets/Nivele N/Level05 N.unity
+    guid: b6d18ced5a983a34cb91be1dd213d1d7
+  - enabled: 1
+    path: Assets/Nivele N/Level06 N.unity
+    guid: d1e7ecb89775c9a4c96aec6d1c6837e1
+  - enabled: 1
+    path: Assets/Nivele N/Level07 N.unity
+    guid: 1dc679ce54c4b0d4ba10053e320683b0
+  - enabled: 1
+    path: Assets/Nivele N/Level08 N.unity
+    guid: ca08e150be4520843af23cdca6dfad44
+  - enabled: 1
+    path: Assets/Nivele N/EndScreen.unity
+    guid: 9ba80fc33c6b48e47b0f8943ec545ec4
+  - enabled: 1
+    path: Assets/LevelSECRET.unity
+    guid: 21a34c2a0e1448d49a4b1ee16c21ff53
+  - enabled: 1
+    path: Assets/EndScreen Secret.unity
+    guid: 4c747ec76dc818b4b8ee3a183c6dc93c
+  - enabled: 1
+    path: Assets/EndScreenHardcore.unity
+    guid: 4688f7b601bc9714b9d532cc807b5c2e
+  m_configObjects: {}
