@@ -65,8 +65,6 @@ Some sounds in the game are used for comedic purposes. I do not own the rights t
 
 ## Contact
 
----
-
 If you have any questions or feedback about this project, feel free to reach out:
 
 - [**Email**](mailto:andrei.foco@yahoo.com)
